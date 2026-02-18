@@ -1,0 +1,21 @@
+{
+    "name": "Nuqthah Learning Center",
+    "short_name": "Nuqthah",
+    "start_url": "./index.html#home",
+    "scope": "./",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#2563eb",
+    "icons": [
+        {
+            "src": "./assets/icon/ikonapk.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "./assets/icon/ikonapk.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}

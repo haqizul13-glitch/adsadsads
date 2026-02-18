@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../nuqthah_final_code"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "nuqthah_final_code"
+	}
+}
